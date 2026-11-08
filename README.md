@@ -1,0 +1,14 @@
+# full_tank-user 5.1.1 LVY48F 288.6.8.8_user_688806320 release-keys
+- manufacturer: amazon
+- platform: mt8127
+- codename: tank
+- flavor: full_tank-user
+- release: 5.1.1
+- id: LVY48F
+- incremental: 288.6.8.8_user_688806320
+- tags: release-keys
+- fingerprint: Amazon/full_tank/tank:5.1.1/LVY48F/288.6.8.8_user_688806320:user/release-keys
+- is_ab: false
+- brand: Amazon
+- branch: full_tank-user-5.1.1-LVY48F-288.6.8.8_user_688806320-release-keys
+- repo: amazon_tank_dump
