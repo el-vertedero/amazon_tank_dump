@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Copyright (c) 2018 - 2023 Amazon.com, Inc. or its affiliates.  All rights reserved.
+   PROPRIETARY/CONFIDENTIAL.  USE IS SUBJECT TO LICENSE TERMS.
+-->
+<permissions>
+    <!-- By declaring the feature here
+         The API PackageManager.hasSystemFeature(String feature) will
+         return true if passed the feature name below.-->
+    <feature name="com.amazon.ffs.enabled"/>
+    <feature name="com.amazon.ugs.enabled"/>
+    <feature name="com.amazon.feature.profile_picker"/>
+
+    <!-- Features used in NetworkStatusAdvisor to characterize devices -->
+    <feature name="com.amazon.firetv.ship.with.hdmi.ext"/>
+
+    <!-- Feature to specify if the device should disable avrcp volume control -->
+    <feature name="com.amazon.feature.no_avrcp_vol_control"/>
+
+    <!-- Feature to indicate the starboard is not enabled on the device -->
+    <feature name="com.amazon.feature.no_starboard_enabled"/>
+    <feature name="com.amazon.feature.hybrid_adid"/>
+    <feature name="com.amazon.feature.cookie_consent_enabled"/>
+</permissions>

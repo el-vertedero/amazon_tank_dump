@@ -1,0 +1,7 @@
+// This file is parsed using regular expressions. Comma is used as the field separator.
+wifiFFS.na,dss-na.amazon.com
+wifiFFS.eu,dss-eu.amazon.com
+wifiFFS.jp,dss-jp.amazon.com
+wifiFFS.proxy_na,dp-sps-na.amazon.com
+wifiFFS.proxy_eu,dp-sps-eu.amazon.com
+wifiFFS.proxy_jp,dp-sps-jp.amazon.com
